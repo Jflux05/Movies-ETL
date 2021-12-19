@@ -6,3 +6,4 @@ links.csv
 movies_metadata.csv
 ratings.csv
 credits.csv
+config.py
